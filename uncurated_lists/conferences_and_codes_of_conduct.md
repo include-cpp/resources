@@ -28,6 +28,7 @@
 * [On being non-binary in tech](http://www.kitation.co.uk/2015/11/17/on-being-nb-in-tech.html)
 	* I want to make this absolutely clear; if you are running a woman in tech event because you care about gender diversity, you either have to explicitly state non-binary people are welcome or explain why they are not.
 * [How to Organize a Conference: 18 Amazingly Useful Tips](https://medium.com/tedx-experience/how-to-organize-a-conference-567fb50ccdbd#.hju33o8o4)
+* [Badge Reviews](https://badge.reviews/) - how to design conference badges, including for legibility
 
 ## Codes of Conduct
 
